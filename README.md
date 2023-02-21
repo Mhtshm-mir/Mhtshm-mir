@@ -12,4 +12,6 @@
 - 👨‍💻 Know more [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtshm-mir&show_icons=true&locale=en&layout=compact" alt="mhtshm-mir" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhtshm-mir" alt="mhtshm-mir" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtshm-mir&" alt="mhtshm-mir" /></p>
