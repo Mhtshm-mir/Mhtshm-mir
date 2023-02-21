@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 -Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Developer,  proficient in MERN Stack.
 I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
- Ask me about React , Redux , Express , MongoDB , NodeJS , JavaScript , HTML , CSS
+
+- Ask me about React , Redux , Express , MongoDB , NodeJS , JavaScript , HTML , CSS
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
