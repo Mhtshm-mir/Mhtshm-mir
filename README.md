@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtshm-mir&label=Profile%20views&color=0e75b6&style=flat" alt="mhtshm-mir" /> </p>
 </a> </p>
+<img align="left" src="https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=ecf05e4799t6v6qpbg3x33biqbwei2smyr7l0v2czhvj1ni0&rid=giphy.gif&ct=g" width="250"/>
 <h1>About me</h1>
 
 <div align="center">
