@@ -13,7 +13,7 @@
 
 <h1 align="left">Statistics:</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
+<p>&nbsp;<img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtshm-mir&" alt="mhtshm-mir" /></p>
+<p><img align="center" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtshm-mir&" alt="mhtshm-mir" /></p>
 
