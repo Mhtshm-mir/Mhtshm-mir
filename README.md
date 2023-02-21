@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohtashim Mir</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <h3 align="center">A passionate Full Stack Developer</h3>
--Hello stranger! my name is  and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
+-Hello stranger! my name is Mohtashim Mir and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. Skilled ,collaborative and attentive  with a drive to develop the most relevant products
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
