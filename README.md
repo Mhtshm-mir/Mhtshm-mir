@@ -15,10 +15,9 @@
 <p align="left">
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Mhtshm-mir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mhtshm-mir" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtshm-mir&show_icons=true&locale=en&layout=compact" alt="mhtshm-mir" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtshm-mir&show_icons=true&locale=en&layout=compact" alt="mhtshm-mir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
 
