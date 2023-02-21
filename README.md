@@ -12,12 +12,6 @@
 - 👨‍💻 Know more [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtshm-mir&show_icons=true&locale=en&layout=compact" alt="mhtshm-mir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
 
