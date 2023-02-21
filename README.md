@@ -11,10 +11,16 @@
 - 📫 How to reach me **mir.mohtashim66@gmail.com**
 - 👨‍💻 Know more [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
 
-<div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
-  <div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Mhtshm-mir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mhtshm-mir" /></a></p><br><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhtshm-mir&show_icons=true&locale=en&layout=compact" alt="mhtshm-mir" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhtshm-mir&" alt="mhtshm-mir" /></p>
+
