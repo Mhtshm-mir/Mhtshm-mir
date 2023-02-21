@@ -3,13 +3,7 @@
 </a> </p>
 <img align="right" src="https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=ecf05e4799t6v6qpbg3x33biqbwei2smyr7l0v2czhvj1ni0&rid=giphy.gif&ct=g" width="250"/>
 <h1>About me</h1>
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Web Developer.I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<div align="center">Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Web Developer.I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 </div>  
   
 
