@@ -11,7 +11,7 @@
 - 📫 How to reach me **mir.mohtashim66@gmail.com**
 - 👨‍💻 Know more [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
 
-<h3 align="left">Statistics:</h3>
+<h1 align="left">Statistics:</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtshm-mir&show_icons=true&locale=en" alt="mhtshm-mir" /></p>
 
