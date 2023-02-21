@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohtashim Mir</h1>
-Profile views: ![](https://komarev.com/ghpvc/?username=Mhtshm-mir)
 <h3 align="center">A passionate Full Stack Developer</h3>
--Hello stranger! my name is Mohtashim Mir and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. Skilled ,collaborative and attentive  with a drive to develop the most relevant products
+-Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Developer,  proficient in MERN Stack.
+I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+ Ask me about React , Redux , Express , MongoDB , NodeJS , JavaScript , HTML , CSS
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)
