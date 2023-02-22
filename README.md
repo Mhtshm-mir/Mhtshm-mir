@@ -60,18 +60,16 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-  <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false"
-            alt="streak"
-           border-radius= "50%"
+<div  border-radius= "50%"
         width="120px"
   height= "120px"
   display= "flex"
   justify-content= "center"
-  align-items="center"
-          />
-
+  align-items="center">
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false"
+ alt="streak"/>
+</div>
 
 
