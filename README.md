@@ -23,7 +23,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/mohtashim-mir" target="_blank" style="padding: 20px 20px"
+<a href="https://linkedin.com/in/mohtashim-mir" target="_blank" style="color:black"
  
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
