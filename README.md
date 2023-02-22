@@ -61,7 +61,6 @@
 
 ## Github Stats  
 
-<div align="left">
   <img border-radius= "50%"
         width="120px"
   height= "120px"
@@ -77,6 +76,6 @@
   justify-content= "center"
   align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false" />
 
-</div>
+
 
 
