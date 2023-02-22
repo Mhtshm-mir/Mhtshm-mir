@@ -62,7 +62,7 @@
 ## Github Stats  
 
   <img border-radius= "50%"
-        width="120px"
+        width="220px"
   height= "120px"
   display= "flex"
   justify-content= "center"
@@ -70,7 +70,7 @@
 
   <img 
        border-radius= "50%"
-        width="120px"
+        width="220px"
   height= "120px"
   display= "flex"
   justify-content= "center"
