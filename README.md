@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center">
+<div display="flex">
   <img border-radius= "50%"
         width="380px"
    src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
