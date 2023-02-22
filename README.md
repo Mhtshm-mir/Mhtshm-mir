@@ -60,15 +60,21 @@
 
 
 ## Github Stats  
-<div  border-radius= "50%"
+
+<div align="left">
+  <img border-radius= "50%"
         width="120px"
   height= "120px"
   display= "flex"
   justify-content= "center"
-  align-items="center">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false"
+  align-items="center"> src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+  <img border-radius= "50%"
+        width="120px"
+  height= "120px"
+  display= "flex"
+  justify-content= "center"
+  align-items="center"> src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false"
  alt="streak"/>
 </div>
 
