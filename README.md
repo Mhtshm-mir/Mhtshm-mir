@@ -64,12 +64,7 @@
   <img border-radius= "50%"
         width="380px"
    src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-  <img 
-       border-radius= "50%"
-        width="380px"
-   src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mhtshm-mir&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
