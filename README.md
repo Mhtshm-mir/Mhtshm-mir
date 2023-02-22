@@ -70,7 +70,7 @@
 
   <img 
        border-radius= "50%"
-        width="350px"
+        width="330px"
   height= "120px"
   display= "flex"
   justify-content= "center"
