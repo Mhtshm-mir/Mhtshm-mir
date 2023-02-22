@@ -62,12 +62,12 @@
 ## Github Stats  
 
   <img border-radius= "50%"
-        width="350px"
+        width="380px"
    src="https://github-readme-stats.vercel.app/api?username=Mhtshm-mir&show_icons=true&count_private=true&hide_border=true" align="center" />
 
   <img 
        border-radius= "50%"
-        width="330px"
+        width="380px"
    src="https://github-readme-streak-stats.herokuapp.com/?user=Mhtshm-mir&theme=light&hide_border=false" />
 
 
