@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtshm-mir&label=Profile%20views&color=0e75b6&style=flat" alt="mhtshm-mir" /> </p>
 </a> </p>
 <h1>About me</h1>
-<div align="center">Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Web Developer.I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<div align="center">Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Web Developer.I have worked in collaborative environments demonstrating my coding and interpersonal skills. Looking forward for some interesting and challenging opportunities.
 </div>  
   
 
