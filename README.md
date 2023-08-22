@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 </h1>
 
 <h1>About me</h1>
-<div align="center">Hello stranger! My name is  Mohtashim Mir and I am a Full Stack Web Developer.I have worked in collaborative environments demonstrating my coding and interpersonal skills. Looking forward for some interesting and challenging opportunities.
+<div align="center">
 </div>  
   
 
