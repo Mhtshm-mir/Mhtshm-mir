@@ -11,8 +11,6 @@
 
 -  📫How to reach me **mir.mohtashim66@gmail.com**  
   
-
-- 💻 Know more [https://mhtshm-mir.github.io/](https://mhtshm-mir.github.io/)  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
